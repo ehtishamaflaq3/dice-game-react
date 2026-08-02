@@ -14,6 +14,8 @@ public
 src/assets
 src/images
 eslint.config.js
+package.json
+vite.config.js
 *.local
 
 # Editor directories and files
