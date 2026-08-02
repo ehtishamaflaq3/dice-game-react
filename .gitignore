@@ -10,6 +10,10 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
+public
+src/assets
+src/images
+eslint.config.js
 *.local
 
 # Editor directories and files
