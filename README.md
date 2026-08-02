@@ -89,7 +89,6 @@ While building this project, I practiced:
 
 **Ehtisham Aflaq**
 
-- GitHub: https://github.com/ehtishamaflaq3
 
 ## License
 
