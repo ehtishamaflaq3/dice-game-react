@@ -1,6 +1,6 @@
 # Dice Game - React
 
-A fun and interactive Dice Game built with **React.js**, **Vite**, and **Tailwind CSS**. Test your luck by selecting a number and rolling the dice. If your selected number matches the rolled dice, you earn points. Otherwise, you lose points.
+A fun and interactive Dice Game built with **React.js**, **Vite**, and **Tailwind CSS**. Test your luck by selecting a number and rolling the dice. If your selected number matches the rolled dice, you earn points. Otherwise, you lose points
 
 
 ## Project Structure
