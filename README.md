@@ -86,7 +86,7 @@ While building this project, I practiced:
 -  High score storage
 -  Dark mode
 -  Animations
--  Game statistics
+-  Game statistics.
 
 
 ## Author
