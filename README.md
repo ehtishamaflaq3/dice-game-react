@@ -21,9 +21,13 @@ A fun and interactive Dice Game built with **React.js**, **Vite**, and **Tailwin
 <img width="1900" height="850" alt="image" src="https://github.com/user-attachments/assets/22814fb7-e296-4817-90e0-64b7236ad4c5" />
 
 
-## Live Demo
+## Play Now
 
-https://dice-game-eh.netlify.app/
+<p align="center">
+  <a href="https://dice-game-eh.netlify.app/">
+    <img src="https://img.shields.io/badge/Live%20Project-View%20Now-ff3d00?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 ## Features
 
