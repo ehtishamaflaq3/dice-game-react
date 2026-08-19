@@ -2,11 +2,9 @@
 
 A fun and interactive Dice Game built with **React.js**, **Vite**, and **Tailwind CSS**. Test your luck by selecting a number and rolling the dice. If your selected number matches the rolled dice, you earn points. Otherwise, you lose points.
 
-
 ## Project Structure
 
 <img width="286" height="672" alt="image" src="https://github.com/user-attachments/assets/74bf53a2-a535-42cd-b2e7-d77bf81f085c" />
-
 
 ## Preview
 
@@ -87,7 +85,6 @@ While building this project, I practiced:
 -  Dark mode
 -  Animations
 -  Game statistics.
-
 
 ## Author
 
