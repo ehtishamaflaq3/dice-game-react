@@ -88,7 +88,7 @@ While building this project, I practiced:
 
 ## Author
 
-**Ehtisham Aflaq**
+**Ehtisham Aflaq**.
 
 ## License
 
