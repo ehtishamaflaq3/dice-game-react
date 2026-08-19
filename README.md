@@ -76,7 +76,6 @@ While building this project, I practiced:
 - Tailwind CSS Styling
 - Project Structuring
 
-
 ## Future Improvements
 
 -  Sound effects
