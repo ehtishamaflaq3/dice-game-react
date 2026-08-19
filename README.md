@@ -90,7 +90,6 @@ While building this project, I practiced:
 
 **Ehtisham Aflaq**
 
-
 ## License
 
 This project is licensed under the **MIT License**.
