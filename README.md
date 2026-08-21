@@ -74,7 +74,7 @@ While building this project, I practiced:
 - Random Number Generation
 - Game Logic Implementation
 - Tailwind CSS Styling
-- Project Structuring
+- Project Structuring.
 
 ## Future Improvements
 
