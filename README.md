@@ -33,7 +33,7 @@ A fun and interactive Dice Game built with **React.js**, **Vite**, and **Tailwin
 -  Random dice roll generation
 -  Number selection (1–6)
 -  Live score tracking
--  Validation if no number is selected
+-  Validation if no number is selected.
 -  Fast performance with Vite.
 -  Responsive and clean UI.
 -  Modern interface using Tailwind CSS.
