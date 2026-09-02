@@ -46,7 +46,7 @@ A fun and interactive Dice Game built with **React.js**, **Vite**, and **Tailwin
 - Tailwind CSS
 - JavaScript (ES6+)
 - HTML5
-- CSS3
+- CSS3.
 
 
 ## How to Play
