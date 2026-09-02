@@ -82,7 +82,7 @@ While building this project, I practiced:
 -  Difficulty levels
 -  High score storage
 -  Dark mode
--  Animations
+-  Animations.
 -  Game statistics.
 
 ## Author
