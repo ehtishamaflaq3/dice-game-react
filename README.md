@@ -35,8 +35,8 @@ A fun and interactive Dice Game built with **React.js**, **Vite**, and **Tailwin
 -  Live score tracking.
 -  Validation if no number is selected.
 -  Fast performance with Vite.
--  Responsive and clean UI.
--  Modern interface using Tailwind CSS.
+-  Responsive and clean UI
+-  Modern interface using Tailwind CSS
 
 
 ## Tech Stack
